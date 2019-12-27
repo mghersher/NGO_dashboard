@@ -42,7 +42,7 @@ The dashboard is designed to pull in live survey data from a SQL remote database
 To open the dashboard without python installed simply download the .html file and double click on the file to open it in your browser. The interactive maps only open in chrome due to a widget issue. If the .html file does not open, this is likely due to the security settings of the browser and needs to be resolved locally.
 
 If the dashboard opens properly you should both see figures such as the below:
-![Graph example](Graphs)
+![Graph example](Graphs.png)
 
 And interactive google maps (with clickable points) such as the below:
-![Map example](Map)
+![Map example](Map.png)
