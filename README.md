@@ -5,7 +5,7 @@ To help reach more out of school girls, we have designed a series of machine lea
 
 This dashboard is designed to monitor the latest round of expansion in the 2500 villages which we've recommended. Due to limitations in our machine learning training data (ex. administrative data in India from the census is from 2011, our outcome variable excluded ages 5-6, etc.), we expect some predictions to be off and want to closely monitor the incoming results. The purpose of this dashboard is to monitor survey progress and the assumptions/extrapolations we had to make in our predictions and triage which trends are unlikely to improve with more surveying and which are not. We will use this to dentify areas where early adjustments to expansion recommendations could save the NGO time and resources.
 
-The colors used across the dashbaoard are consistent and designed to be intuitive - <font color='green' size = '3'>green</font> highlights positive trends that will help the NGO exceed their 44 OOSG/village target and <font color='red' size = '3'>red</font> highlights concerning trends that could make them fall short.
+The colors used across the dashboard are consistent and designed to be intuitive - <font color='green' size = '3'>green</font> highlights positive trends that will help the NGO exceed their 44 OOSG/village target and <font color='red' size = '3'>red</font> highlights concerning trends that could make them fall short.
 
 ## Prerequisites
 This dashboard was written using the following version of python:
